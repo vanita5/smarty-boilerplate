@@ -1,0 +1,29 @@
+{
+  "name": "vanita5/boilerplate",
+  "description": "My personal boilerplate for Smarty projects I use at work",
+  "type": "project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "vanita5",
+      "email": "mail@vanita5.de",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "mail@vanita5.de"
+  },
+  "require": {
+    "php": "5.6.*",
+    "smarty/smarty": "v2.6.29"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.0.8"
+  },
+  "autoload": {
+    "psr-0": {
+      "PHPUnit": ""
+    }
+  }
+}

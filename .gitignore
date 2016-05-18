@@ -1,0 +1,16 @@
+# Composer
+# vendor/**/.git
+vendor/
+composer.lock
+
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea/
+
+# Smarty
+smarty/templates_c/
+
+# Compass/Sass
+.sass-cache/

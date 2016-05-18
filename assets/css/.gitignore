@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### EmptyDir template
+# Add empty dir to git
+# Ignore all files
+*
+
+# Except this file
+!.gitignore
